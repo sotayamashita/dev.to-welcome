@@ -1,1 +1,1 @@
-- Japaense [welcome-ja](./welcome-ja.md)
+- Japaense [WELCOME-ja.md](https://github.com/sotayamashita/dev.to-welcome/blob/master/WELCOME-ja.md)

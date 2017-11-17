@@ -1,0 +1,1 @@
+- Japaense [welcome-ja](./welcome-ja.md)

@@ -1,0 +1,21 @@
+language: ruby
+rvm:
+  - 2.2
+
+cache:
+  - bundler
+
+notifications:
+  email: false
+
+before_script:
+  - gem install awesome_bot
+
+script:
+  - awesome_bot README.md locale/*.md --allow-dupe --allow-redirect
+
+# Trigger a push build on master and greenkeeper branches + PRs build on every branches
+# Avoid double build on PRs (See https://github.com/travis-ci/travis-ci/issues/1147)
+branches:
+  only:
+    - master

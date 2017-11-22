@@ -1,4 +1,4 @@
-# dev.to-welcome
+# dev.to-welcome [![Build Status](https://travis-ci.org/sotayamashita/dev.to-welcome.svg?branch=master)](https://travis-ci.org/sotayamashita/dev.to-welcome)
 
 > It will move to dev.to org after it will be open sourcing
 

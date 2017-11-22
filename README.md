@@ -6,8 +6,8 @@ This repository was created based on [this conversation.](https://dev.to/yohhoy/
 
 ## Languages
 
-- [English](https://github.com/sotayamashita/dev.to-welcome/blob/master/WELCOME.md)
-- [Japanese](https://github.com/sotayamashita/dev.to-welcome/blob/master/WELCOME-ja.md)
+- [English](https://github.com/sotayamashita/dev.to-welcome/blob/master/README.md)
+- [Japanese](https://github.com/sotayamashita/dev.to-welcome/blob/master/README_ja.md)
 
 ## Contribute
 
